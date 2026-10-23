@@ -1,3 +1,4 @@
+# KR2: Dimitrov
 import os
 import socket
 
